@@ -386,6 +386,13 @@ Completed a virtual experience focused on using generative AI to improve data st
   </picture>
 </div>
 
+## 🏙️ 3D Contribution Landscape
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mandarbhat27/Mandarbhat27/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="Mandarbhat27 3D Graph"/>
+</div>
+
+
 ## 📈 Contribution Activity
 
 <div align="center">
