@@ -298,39 +298,18 @@ Completed a virtual experience focused on using generative AI to improve data st
 </div>
 
 ---
+---
 
-## 📜 Certifications
+## 📜 Certifications & Training
 
-### AWS
+<div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPMorgan%20Chase%20%26%20Co.-Software%20Engineering%20Virtual%20Experience-7C3AED?style=for-the-badge&logo=jpmorganchase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Virtual%20Experience-6366F1?style=for-the-badge&logo=deloitte&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tata%20Group-GenAI%20Data%20Analytics-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-Mobile%20App%20Development-4F46E5?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-No AWS certification is listed in the current profile information.
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology-6366F1?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-No Oracle certification is listed in the current profile information.
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certification-8B5CF6?style=for-the-badge&logo=academia&logoColor=white"/>
-
-No NPTEL certification is listed in the current profile information.
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-4F46E5?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-No Cisco certification is listed in the current profile information.
-
-### Verified Training & Virtual Experiences
-
-<img src="https://img.shields.io/badge/JPMorgan%20Chase%20%26%20Co.-SWE%20Virtual%20Experience-7C3AED?style=flat-square&logo=jpmorganchase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-6366F1?style=flat-square&logo=deloitte&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tata%20Group-GenAI%20Analytics-8B5CF6?style=flat-square&logo=tata&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-Mobile%20Development-4F46E5?style=flat-square&logo=flutter&logoColor=white"/>
+</div>
 
 ---
 
@@ -358,41 +337,41 @@ No Cisco certification is listed in the current profile information.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Engineering Activity
 
 <div align="center">
 
-<a href="https://github.com/Mandarbhat27">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mandarbhat27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Mandarbhat27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" height="180"/>
 
-<a href="https://github.com/Mandarbhat27">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandarbhat27&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandarbhat27&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mandarbhat27&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
+<img src="https://streak-stats.demolab.com?user=Mandarbhat27&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280" width="70%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/commit-activity/y/Mandarbhat27?style=flat-square&label=YEARLY%20COMMITS&color=7C3AED"/>
+<img src="https://img.shields.io/github/last-commit/Mandarbhat27?style=flat-square&label=LAST%20COMMIT&color=6366F1"/>
+<img src="https://img.shields.io/github/repo-size/Mandarbhat27/Mandarbhat27?style=flat-square&label=PROFILE%20REPO&color=8B5CF6"/>
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🧬 Contribution Matrix
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mandarbhat27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandarbhat27&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area_color=4F46E5&area=true&hide_border=true&custom_title=MANDAR%20BHAT%20%2F%20ENGINEERING%20ACTIVITY" width="100%"/>
 
-</div>
+<br/><br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandarbhat27&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Mandar%20Bhat%20%E2%80%94%20Contribution%20Activity" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mandarbhat27&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -402,10 +381,9 @@ No Cisco certification is listed in the current profile information.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mandarbhat27/Mandarbhat27/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Mandarbhat27/Mandarbhat27/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
-
 ---
 
 ## 🎯 Current Focus
