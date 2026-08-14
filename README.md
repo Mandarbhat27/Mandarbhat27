@@ -376,15 +376,28 @@ Completed a virtual experience focused on using generative AI to improve data st
 </div>
 
 ---
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Mandarbhat27/Mandarbhat27/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mandarbhat27/Mandarbhat27/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mandarbhat27/Mandarbhat27/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Mandarbhat27/Mandarbhat27/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
----
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandarbhat27&theme=react-dark&bg_color=0D1117&title_color=7C3AED&line_color=6366F1&point_color=8B5CF6&area_color=4F46E5&hide_border=true" width="100%" alt="Mandarbhat27 Activity Graph"/>
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mandarbhat27&theme=onedark&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Mandarbhat27 Trophies" />
+</div>
+
 
 ## 🎯 Current Focus
 
